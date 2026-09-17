@@ -1,4 +1,4 @@
-words = ["python", "java", "javascript", "go", "c++"]
+words = ["python", "java", "javascript", "cobal", "c++"]
 
 result = [len(w) for w in words if len(w) > 3]
 
